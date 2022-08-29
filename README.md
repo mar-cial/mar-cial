@@ -1,4 +1,4 @@
-# César for the homies
+# César
 
 Hey there, my name is César Marcial from Mexicali, Baja California, México. I'm currently working mainly as a front-end developer 
 with fullstack activities. 
