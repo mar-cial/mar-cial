@@ -5,8 +5,8 @@ Hey there, my name is César Marcial and I am a full stack developer (JavaScript
 ## My preferred stack
 - React
 - Go/Node
-- MySQL/PostreSQL
+- MySQL/Postgres
 
 ## Things I'm learning
-- GraphQL
-- Redux Toolkit
+- Microservices development with Go
+- Docker
