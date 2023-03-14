@@ -9,4 +9,3 @@ Hey there, my name is César Marcial and I am a full stack developer (JavaScript
 
 ## Things I'm learning
 - Microservices development with Go
-- Docker
