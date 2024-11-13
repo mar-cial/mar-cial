@@ -1,3 +1,1 @@
-# César
-
-Cloud things with Go
+Cloud software developer. 
